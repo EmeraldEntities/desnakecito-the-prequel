@@ -1,0 +1,15 @@
+--- EXPERIMENT 17 9 3 7 ---
+Subject: despasnake
+Status: ALIVE
+Location: Icy Plains
+
+Scientist Notes:
+This thing shouldn't be alive.
+I still don't know how it escaped Dirt Spawn.
+It's heading west towards the ice.
+Hopefully the ice will stop it. 
+Otherwise...
+
+It will reach Prime City.
+
+--- END EXPERIMENT LOG ---
